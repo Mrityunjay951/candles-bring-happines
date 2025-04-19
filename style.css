@@ -1,0 +1,36 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(221, 55, 55);
+    color: white;
+}
+
+.logo{
+    font-size: 40px;
+    margin: 15px 400px 0px 30px;
+}
+a{
+    margin: 20px 25px 0px 25px;
+    font-size: 20px;
+}
+.navbar {
+    display: flex; /* Enables flexbox */
+    align-items: center; /* Aligns items vertically in the center */
+    margin-top: 8px;
+}
+
+.cart {
+    width: 50px;
+    height: 50px;
+    margin-left: 190px; /* Optional: Pushes the cart to the far right */
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.list{
+    text-align: center;
+    font-size: 150px;
+    margin-left: 500px;
+    list-style-type: none;
+}
